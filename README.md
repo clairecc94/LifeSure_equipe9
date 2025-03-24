@@ -34,7 +34,7 @@ cd LifeSure_equipe9
 
 
 ```bash
-python code/dashboard.py
+python codes/dashboard.py
 ```
 Access the Dashboard:
 
